@@ -1,12 +1,12 @@
 # Supplemental data for Keshishian *et al.* 2021 [1]
 
 
-The [zip-archive](https://github.com/broadinstitute/proteomics-SigPath-supplemental-data/blob/90190719b11b5b70be32e33ed0175cd3ffd6d552/SigPath-CausalPath-graphs.zip?raw=true) contains [CausalPath](https://www.causalpath.org/) [2] analysis output networks for the phosphoproteomic datasets described in the manuscript titled *"Highly multiplexed quantitative phosphosite assay for biology and preclinical studies"*. 
+The [zip-archive](https://github.com/broadinstitute/proteomics-SigPath-supplemental-data/blob/90190719b11b5b70be32e33ed0175cd3ffd6d552/SigPath-CausalPath-graphs.zip?raw=true) contains [CausalPath](https://www.causalpath.org) [2] analysis output networks for the phosphoproteomic datasets described in the manuscript titled *"Highly multiplexed quantitative phosphosite assay for biology and preclinical studies"*. 
 
 These networks can be interactively visualized using ChiBE [3] by following the steps below.
 
 1. Extract this archive to a local directory.
-2. Go to [www.causalpath.org](https://www.causalpath.org/) and select the option *"Visualize results from previous analysis"*.
+2. Go to [www.causalpath.org](https://www.causalpath.org) and select the option *"Visualize results from previous analysis"*.
 3. From the file dialog, select the root folder of the extracted archive and press upload.
 4. Folder structure corresponding to analyzes will be displayed on the left. Double-click on an analysis folder to visualize the result network.
 
